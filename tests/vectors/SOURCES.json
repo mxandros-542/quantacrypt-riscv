@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/usnistgov/ACVP-Server",
+  "commit": "975de31eb83d87039ec88934fdc47d8c312b892d",
+  "selection": "All ML-DSA-44 groups; other parameter sets omitted",
+  "sources": [
+    {
+      "name": "ML-DSA-keyGen-FIPS204",
+      "url": "https://raw.githubusercontent.com/usnistgov/ACVP-Server/975de31eb83d87039ec88934fdc47d8c312b892d/gen-val/json-files/ML-DSA-keyGen-FIPS204/internalProjection.json",
+      "groups": 1
+    },
+    {
+      "name": "ML-DSA-sigGen-FIPS204",
+      "url": "https://raw.githubusercontent.com/usnistgov/ACVP-Server/975de31eb83d87039ec88934fdc47d8c312b892d/gen-val/json-files/ML-DSA-sigGen-FIPS204/internalProjection.json",
+      "groups": 8
+    },
+    {
+      "name": "ML-DSA-sigVer-FIPS204",
+      "url": "https://raw.githubusercontent.com/usnistgov/ACVP-Server/975de31eb83d87039ec88934fdc47d8c312b892d/gen-val/json-files/ML-DSA-sigVer-FIPS204/internalProjection.json",
+      "groups": 4
+    }
+  ]
+}
