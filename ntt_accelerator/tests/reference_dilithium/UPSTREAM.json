@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/pq-crystals/dilithium",
+  "commit": "d35ba3fe5449bee3e6d43e1f296c3ca818bd36be",
+  "licenseChoice": "CC0 / public domain",
+  "note": "Copied from the pre-existing pinned local Dilithium vendor snapshot. Only NTT arithmetic is used; this does not validate a full ML-DSA implementation.",
+  "normalizedTextSHA256": {
+    "reduce.h": "9abe0b725e0608948eaa74fabd01c4701de5480ce9494a5f6bfa35140eee0399",
+    "params.h": "1d6c116396e3d20f40d72c35a093af2be9f03177282762bdbdb282bb4c4b64af",
+    "ntt.h": "32345efead2c237177f3c0e050c26caf6c9d1772a629664632d9ff32f2693a3e",
+    "config.h": "4f798c78a3b44669fc0febc116b9235692a555987b09d528df3e644415d4dea9",
+    "ntt.c": "921b76ae7a183305893800e69c0b9ea561bffd2a6e85621767eb789c02a0f8d0",
+    "reduce.c": "3088cac3d23355a3f9adaac9fd4ee864be9caf5fb0ad30bcb4a4da17dba0e4f4"
+  }
+}
